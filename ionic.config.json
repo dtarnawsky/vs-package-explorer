@@ -1,0 +1,7 @@
+{
+  "name": "vs-packages",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
